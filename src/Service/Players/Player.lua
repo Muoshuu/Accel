@@ -17,6 +17,8 @@ return function(import)
             self.onChat = client.Chatted
             self.onIdle = client.Idled
             self.onTeleport = client.OnTeleport
+
+            self.customState = {}
         end
 
         do -- // Prototype
