@@ -18,7 +18,7 @@ return function(import)
             self.onIdle = client.Idled
             self.onTeleport = client.OnTeleport
 
-            self.customState = {}
+            self.customData = {}
         end
 
         do -- // Prototype
