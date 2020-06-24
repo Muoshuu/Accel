@@ -95,4 +95,6 @@ return function(import)
             end
         end
     end
+
+    return utilityService
 end
