@@ -1,5 +1,6 @@
-return function(import, class)
+return function(import)
     local httpService = import 'HttpService'
+    local class = import 'Class'
 
     local Promise = import 'Class/Promise'
     local URL = import 'Class/URL'

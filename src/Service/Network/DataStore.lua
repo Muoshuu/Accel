@@ -1,8 +1,9 @@
-return function(import, class)
-    local Promise = import 'Class/Promise'
-
+return function(import)
     local create = import 'Create'
+    local class = import 'Class'
     local dataStoreService = import 'DataStoreService'
+    
+    local Promise = import 'Class/Promise'
 
     local DataStore = class.new('DataStore') do
         function DataStore:init(name, scope, isOrdered)
