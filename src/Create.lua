@@ -36,6 +36,12 @@ return function(import)
             return folder
         end
 
+        function create.value(type, parent, name, value)
+            return create(type, parent, name) {
+                Value = value
+            }
+        end
+
         setmetatable(create, create)
     end
 
