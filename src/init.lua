@@ -139,6 +139,10 @@ local import = {} do
     end
 
     setmetatable(import, import)
+
+    for i, serviceModule in pairs(script:WaitForChild('Service'):GetChildren()) do
+        import(serviceModule) -- // Initialize services
+    end
 end
 
 return import
