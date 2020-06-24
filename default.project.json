@@ -1,0 +1,22 @@
+{
+    "name": "wanderlust",
+    "tree": {
+        "$className": "DataModel",
+
+        "ServerScriptService": {
+            "$className": "ServerScriptService",
+            
+            "Tests": {
+                "$path": "tests",
+
+                "TestEZ": { "$path": "testez/src" }
+            }
+        },
+
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+
+            "Accel": { "$path": "src" }
+        }
+    }
+}
