@@ -1,4 +1,5 @@
-return function(import, class)
+return function(import)
+    local class = import 'Class'
     local httpService = import 'HttpService'
 
     local legal = {
