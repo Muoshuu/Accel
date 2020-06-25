@@ -1,4 +1,5 @@
-# Accel
+![](https://i.imgur.com/9jgmCbM.png)
+
 A comprehensive redesign of the Roblox API built around asynchronicity, inspired by JavaScript.
 
 ## Features
