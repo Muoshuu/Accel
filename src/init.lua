@@ -50,11 +50,6 @@
 	   distributed with the derivative version (e.g. on GitHub as a fork of the
 	   original repository of the Software).
 
-	6. If included with closed-source Software or content, attribution shall be
-	   explicitly given in a way accessible to end-users (e.g. the credits
-	   section of a video game). The attribution must include the name of the
-	   Software as well as the name or pseudonym of the author(s) who created it.
-
 	THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 	FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
